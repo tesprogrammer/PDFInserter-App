@@ -8,7 +8,7 @@ from PyPDF2 import PdfFileReader, PdfFileWriter
 root = Tk()
 
 root.geometry('604x360+0+200')
-root.title("Excel Comparison")
+root.title("PDF Inserter")
 
 f1 = ""
 f2 = ""
